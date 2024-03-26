@@ -15,6 +15,6 @@
 |----|-----|----|----|----|----|
 |2024/02/25|ch10 使用變數的一般事項|Ash|Chairs| [Slide](https://hackmd.io/@On5HxoAwSqe50wER3MNFZA/HkwOcuZnp) | [Note](https://github.com/Tech-Book-Community/Code-Complete-2/discussions/2)
 |2024/03/10|ch11 變數名稱的力量|Dinozzo|Ash| [Slide](https://hackmd.io/@HC-Ting/BJcLcX9aT#/) | [Note](https://hackmd.io/c/tutorials-tw/%2Fs%2Ftutorials-tw)
-|2024/03/24|ch14 組織直線碼|ya|Jess| [Slide]() | [Note]()
+|2024/03/24|ch14 組織直線碼|ya|Jess| [Slide](https://docs.google.com/presentation/d/1i5NQq52l7v4IyziRxSMo-Q06FVmEEIzCOF6LfEB0kCc/edit?usp=sharing) | [Note]()
 |2024/04/07|ch15 使用條件述句|Charis|Dinozzo| [Slide]() | [Note]()
 |2024/04/21|ch16 控制迴圈|Jess|Charis| [Slide]() | [Note]()
