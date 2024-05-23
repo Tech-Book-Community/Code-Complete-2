@@ -18,3 +18,6 @@
 |2024/03/24|ch14 組織直線碼|ya|Jess| [Slide](https://docs.google.com/presentation/d/1i5NQq52l7v4IyziRxSMo-Q06FVmEEIzCOF6LfEB0kCc/edit?usp=sharing) | [Note](https://www.notion.so/ch14-71eadee9135e4a2d8a3f6f0ec86c9ae9)
 |2024/04/07|ch15 使用條件述句|Charis|Dinozzo| [Slide]() | [Note]()
 |2024/04/21|ch16 控制迴圈|Jess|Charis| [Slide](https://www.canva.com/design/DAGCZvWhAuw/MZ_GgIrA6FZGPIumSOrtJQ/edit?utm_content=DAGCZvWhAuw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Note]()
+|2024/05/05|ch19 一般控制問題|Dinozzo|Jess| [Slide]() | [Note](https://www.notion.so/ch19-cc8a6b1115b541a0bfe3a6c5836a8ec9)
+|2024/05/19|ch12 基本資料型別|Jim|Dinozzo| [Slide]() | [Note]()
+|2024/06/02|ch31 布局與風格|ya|Jim| [Slide]() | [Note]()
