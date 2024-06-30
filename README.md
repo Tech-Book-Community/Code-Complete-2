@@ -22,3 +22,4 @@
 |2024/05/19|ch12 基本資料型別|Jim|Dinozzo| [Slide]() | [Note]()
 |2024/06/02|ch31 布局與風格|ya|Jim| [Slide]() | [Note]()
 |2024/06/16|ch32 自我文件化程式碼|Jess|ya| [Slide]() | [Note]()
+|2024/06/30|ch30 程式設計工具|Charis|ya|  [Slide](https://www.canva.com/design/DAGJmd5m6mA/OuotGkf0FdiKjNpDqKHQAA/edit?utm_content=DAGJmd5m6mA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) | [Note]()
